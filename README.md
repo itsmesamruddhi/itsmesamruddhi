@@ -1,17 +1,33 @@
-# 💫 About Me:
-Hey! I'm samruddhi✨<br>I love building things for the web and turning complex problems into beautiful, intuitive designs<br>🔭 I’m currently working on a project called Uniride(Hyper-local carpooling and vehicle renting app).<br>🎓 I’m currently studying Btech in electronics and telecommunication at BVPCOEP.<br>📫  reach me: pasamruddhi1@gmail.com<br><br><br>
+# Hi there 👋 I'm Samruddhi!
 
+Welcome to my GitHub profile!  
+I'm passionate about technology, learning new things, and building cool projects.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samruddhi_87628) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samruddhi-patil-b96791223/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pasamruddhi1@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsmesamruddhi&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsmesamruddhi&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesamruddhi&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 Currently learning: Full-stack development, cloud technologies, and open-source collaboration.
+- 👩‍💻 Interested in: Web development, data science, and automation.
+- 💬 Ask me about: JavaScript, Python, Git, or anything tech!
+- 📫 How to reach me: pasamruddhi1@gmail.com  
+- 🌍 Fun fact: I love sleeping, eating and exploring new places.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## 🛠️ Skills
 
+- Languages: JavaScript, Python, HTML, CSS
+- Frameworks: React, Node.js, Express
+- Tools: Git, VS Code, Linux
+
+## 📈 GitHub Stats
+
+![Samruddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmesamruddhi&show_icons=true&hide_title=true)
+
+## 🔥 Featured Projects
+
+- Project deep dive(https://github.com/itsmesamruddhi/deep-dive) - TDD Testing Framework.
+- [Project Two](https://github.com/itsmesamruddhi/project-two) - Brief description of project two.
+
+## 🌐 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/samruddhi-patil-b96791223/)  | 
+
+_Thanks for visiting! Have a great day!_
